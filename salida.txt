@@ -1,0 +1,20 @@
+EMP001|Juan Pérez García|Ventas|45000.5|Av. Reforma 123|CDMX
+EMP002|María López Hernández|Recursos Humanos|52000.0|Calle Juárez 456|Guadalajara
+EMP003|Carlos Ramírez Torres|Tecnología|68000.75|Blvd. Zapopan 789|Zapopan
+EMP004|Ana Martínez Sánchez|Finanzas|61000.0|Av. Chapultepec 321|CDMX
+EMP005|Luis González Díaz|Ventas|47000.25|Calle Morelos 654|Monterrey
+EMP006|Patricia Rodríguez Cruz|Marketing|55000.5|Av. Universidad 987|Puebla
+EMP007|Roberto Fernández Ruiz|Tecnología|72000.0|Calle Insurgentes 147|CDMX
+EMP008|Laura Jiménez Morales|Recursos Humanos|49000.75|Av. Vallarta 258|Guadalajara
+EMP009|Miguel Vargas Ortiz|Operaciones|58000.0|Blvd. Tlaquepaque 369|Tlaquepaque
+EMP010|Sandra Moreno Castillo|Finanzas|64000.5|Calle Hidalgo 741|Querétaro
+EMP011|Jorge Herrera Méndez|Ventas|46000.0|Av. Patria 852|Zapopan
+EMP012|Diana Silva Ramos|Marketing|57000.25|Calle Madero 963|CDMX
+EMP013|Fernando Castro Flores|Tecnología|70000.0|Av. Américas 159|Guadalajara
+EMP014|Gabriela Romero Vega|Operaciones|53000.75|Blvd. Puerta de Hierro 357|Zapopan
+EMP015|Ricardo Gutiérrez Luna|Finanzas|66000.0|Calle Constitución 486|Monterrey
+EMP016|Verónica Mendoza Reyes|Recursos Humanos|51000.5|Av. López Mateos 597|Guadalajara
+EMP017|Alberto Navarro Rojas|Ventas|48000.25|Calle Independencia 624|Puebla
+EMP018|Mónica Campos Salazar|Marketing|59000.0|Av. Revolución 735|CDMX
+EMP019|Héctor Ríos Domínguez|Tecnología|75000.5|Blvd. Belisario 846|Zapopan
+EMP020|Isabel Núñez Aguilar|Operaciones|56000.75|Calle Allende 951|Querétaro

@@ -1,0 +1,203 @@
+[
+  {
+    "empleado_id": "EMP001",
+    "nombre": "Juan Pérez García",
+    "departamento": "Ventas",
+    "salario": 45000.50,
+    "direccion": {
+      "calle": "Av. Reforma 123",
+      "ciudad": "CDMX"
+    }
+  },
+  {
+    "empleado_id": "EMP002",
+    "nombre": "María López Hernández",
+    "departamento": "Recursos Humanos",
+    "salario": 52000.00,
+    "direccion": {
+      "calle": "Calle Juárez 456",
+      "ciudad": "Guadalajara"
+    }
+  },
+  {
+    "empleado_id": "EMP003",
+    "nombre": "Carlos Ramírez Torres",
+    "departamento": "Tecnología",
+    "salario": 68000.75,
+    "direccion": {
+      "calle": "Blvd. Zapopan 789",
+      "ciudad": "Zapopan"
+    }
+  },
+  {
+    "empleado_id": "EMP004",
+    "nombre": "Ana Martínez Sánchez",
+    "departamento": "Finanzas",
+    "salario": 61000.00,
+    "direccion": {
+      "calle": "Av. Chapultepec 321",
+      "ciudad": "CDMX"
+    }
+  },
+  {
+    "empleado_id": "EMP005",
+    "nombre": "Luis González Díaz",
+    "departamento": "Ventas",
+    "salario": 47000.25,
+    "direccion": {
+      "calle": "Calle Morelos 654",
+      "ciudad": "Monterrey"
+    }
+  },
+  {
+    "empleado_id": "EMP006",
+    "nombre": "Patricia Rodríguez Cruz",
+    "departamento": "Marketing",
+    "salario": 55000.50,
+    "direccion": {
+      "calle": "Av. Universidad 987",
+      "ciudad": "Puebla"
+    }
+  },
+  {
+    "empleado_id": "EMP007",
+    "nombre": "Roberto Fernández Ruiz",
+    "departamento": "Tecnología",
+    "salario": 72000.00,
+    "direccion": {
+      "calle": "Calle Insurgentes 147",
+      "ciudad": "CDMX"
+    }
+  },
+  {
+    "empleado_id": "EMP008",
+    "nombre": "Laura Jiménez Morales",
+    "departamento": "Recursos Humanos",
+    "salario": 49000.75,
+    "direccion": {
+      "calle": "Av. Vallarta 258",
+      "ciudad": "Guadalajara"
+    }
+  },
+  {
+    "empleado_id": "EMP009",
+    "nombre": "Miguel Vargas Ortiz",
+    "departamento": "Operaciones",
+    "salario": 58000.00,
+    "direccion": {
+      "calle": "Blvd. Tlaquepaque 369",
+      "ciudad": "Tlaquepaque"
+    }
+  },
+  {
+    "empleado_id": "EMP010",
+    "nombre": "Sandra Moreno Castillo",
+    "departamento": "Finanzas",
+    "salario": 64000.50,
+    "direccion": {
+      "calle": "Calle Hidalgo 741",
+      "ciudad": "Querétaro"
+    }
+  },
+  {
+    "empleado_id": "EMP011",
+    "nombre": "Jorge Herrera Méndez",
+    "departamento": "Ventas",
+    "salario": 46000.00,
+    "direccion": {
+      "calle": "Av. Patria 852",
+      "ciudad": "Zapopan"
+    }
+  },
+  {
+    "empleado_id": "EMP012",
+    "nombre": "Diana Silva Ramos",
+    "departamento": "Marketing",
+    "salario": 57000.25,
+    "direccion": {
+      "calle": "Calle Madero 963",
+      "ciudad": "CDMX"
+    }
+  },
+  {
+    "empleado_id": "EMP013",
+    "nombre": "Fernando Castro Flores",
+    "departamento": "Tecnología",
+    "salario": 70000.00,
+    "direccion": {
+      "calle": "Av. Américas 159",
+      "ciudad": "Guadalajara"
+    }
+  },
+  {
+    "empleado_id": "EMP014",
+    "nombre": "Gabriela Romero Vega",
+    "departamento": "Operaciones",
+    "salario": 53000.75,
+    "direccion": {
+      "calle": "Blvd. Puerta de Hierro 357",
+      "ciudad": "Zapopan"
+    }
+  },
+  {
+    "empleado_id": "EMP015",
+    "nombre": "Ricardo Gutiérrez Luna",
+    "departamento": "Finanzas",
+    "salario": 66000.00,
+    "direccion": {
+      "calle": "Calle Constitución 486",
+      "ciudad": "Monterrey"
+    }
+  },
+  {
+    "empleado_id": "EMP016",
+    "nombre": "Verónica Mendoza Reyes",
+    "departamento": "Recursos Humanos",
+    "salario": 51000.50,
+    "direccion": {
+      "calle": "Av. López Mateos 597",
+      "ciudad": "Guadalajara"
+    }
+  },
+  {
+    "empleado_id": "EMP017",
+    "nombre": "Alberto Navarro Rojas",
+    "departamento": "Ventas",
+    "salario": 48000.25,
+    "direccion": {
+      "calle": "Calle Independencia 624",
+      "ciudad": "Puebla"
+    }
+  },
+  {
+    "empleado_id": "EMP018",
+    "nombre": "Mónica Campos Salazar",
+    "departamento": "Marketing",
+    "salario": 59000.00,
+    "direccion": {
+      "calle": "Av. Revolución 735",
+      "ciudad": "CDMX"
+    }
+  },
+  {
+    "empleado_id": "EMP019",
+    "nombre": "Héctor Ríos Domínguez",
+    "departamento": "Tecnología",
+    "salario": 75000.50,
+    "direccion": {
+      "calle": "Blvd. Belisario 846",
+      "ciudad": "Zapopan"
+    }
+  },
+  {
+    "empleado_id": "EMP020",
+    "nombre": "Isabel Núñez Aguilar",
+    "departamento": "Operaciones",
+    "salario": 56000.75,
+    "direccion": {
+      "calle": "Calle Allende 951",
+      "ciudad": "Querétaro"
+    }
+  }
+]
+
